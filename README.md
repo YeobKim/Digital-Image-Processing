@@ -17,4 +17,4 @@ Digital Image Processing에 관련된 모든 실습과정을 MATLAB을 사용하
 * WEEK11 - Sobel Operator
 * WEEK12 - Normalized Correlation
 
-@ 자세한 문의사항이나 피드백은 athurk94111@gmail.com 으로 주시면 감사하겠습니다.
+## 자세한 문의사항이나 피드백은 athurk94111@gmail.com 으로 주시면 감사하겠습니다.
