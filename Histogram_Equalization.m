@@ -1,3 +1,4 @@
+%% WEEK3
 clc;
 
 img = imread('lena.tiff');
