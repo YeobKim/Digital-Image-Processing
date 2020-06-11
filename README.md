@@ -7,9 +7,9 @@ Digital Image Processing에 관련된 모든 실습과정을 MATLAB을 사용하
 * WEEK1 - Convert File format
 * WEEK2 - Color Model Component
 * WEEK3 - Histogram Equalization
-* WEEK4 - Noise Reduction Filter
+* WEEK4 - Low Pass Filter & Median Filter (Noise Reduction)
 * WEEK5 - Watermarking
-* WEEK6 - Low Pass Filter & Median Filter (Noise Reduction)
+* WEEK6 - Frequency Domain Filtering
 * WEEK7 - Huffman Coding
 * WEEK8 - Text File Huffman Coding
 * WEEK9 - JPEG Compression
