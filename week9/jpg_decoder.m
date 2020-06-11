@@ -1,4 +1,4 @@
-sionfunction Y = jpg_decoder(encoded, QP)
+function Y = jpg_decoder(encoded, QP)
 blk_size = 8; 
 [M N]= size(encoded);
 H = M/blk_size;
