@@ -1,6 +1,6 @@
 # Digital-Image-Processing
 
-한양대학교 전자컴퓨터통신공학과 석사과정 (2020~)
+한양대학교 융합전자공학과 석사과정 (2020~)
 
 Digital Image Processing에 관련된 모든 실습과정을 MATLAB을 사용하여 업로드합니다.
 
